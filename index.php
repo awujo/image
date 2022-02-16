@@ -7,7 +7,9 @@
 <html>
 <head><style>
     .body{
-    text-align:center;}
+    text-align:center;
+    margin-top:50%;
+    }
     </style>
     </head>
 <body><div class="body">
